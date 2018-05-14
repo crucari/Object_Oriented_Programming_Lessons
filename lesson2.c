@@ -37,7 +37,7 @@ namespace Bulldozer
             public Kart () {
             }
 
-    //  public bool moves { get; set; } //defines if a man can moves
+    //  public bool moves { get; set; } //defines if Kart moves
      public string manufacturer { get; set; }
     //  public string color { get; set; }
     }
@@ -47,7 +47,7 @@ namespace Bulldozer
         public Alien () {
         }
 
-    //  public bool moves { get; set; } //defines if a man can moves
+    //  public bool moves { get; set; } //defines if alien can move
      public string planet { get; set; }
     //  public string color { get; set; }
     }
